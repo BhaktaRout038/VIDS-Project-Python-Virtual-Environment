@@ -82,6 +82,8 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 
 Refer to [this guide](https://github.com/BhaktaRout038/How-to-Install-NVIDIA-GPU-For-object-detection-Cuda-Toolkit-And-cuDNN) for more details on NVIDIA GPU setup.
 
+## below step just for the information
+
 ### 9. Installing `dlib`
 
 If you encounter issues while installing `dlib`, follow these steps:
@@ -91,8 +93,6 @@ If you encounter issues while installing `dlib`, follow these steps:
 Download and install **Microsoft Build Tools for Visual Studio** from:
 [https://visualstudio.microsoft.com/downloads/](https://visualstudio.microsoft.com/downloads/)
 
-
-## below step just for the information
 
 #### b. Install Required Packages
 
